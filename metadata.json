@@ -1,0 +1,6 @@
+{
+  "name": "CIBIL Report Analyzer & Loan Extractor",
+  "description": "Upload CIBIL credit reports to extract holder name, score, report date, and detailed active & derogatory loan accounts with DPD history, overdues, and exportable credit appraisal report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
